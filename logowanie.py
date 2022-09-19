@@ -29,7 +29,6 @@ def signin():
             return signin()
     else:
         return "Name not found. Please Sign Up."
-testczydzialaabc
 
 def register():
     invalid = True
